@@ -1,4 +1,4 @@
-# Flux Security
+# aki Flux Security policies to vajratechnosolutions@gmail.com
 
 This document defines security reporting, handling, disclosure, and audit information for the Flux project and community.
 
